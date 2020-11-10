@@ -45,7 +45,15 @@
   cursor: pointer;
 }
 @media only screen and (max-width: 780px) {
-  .nav__center {
+  
+    .nav {
+        justify-content: space-between;
+        width: 88%;
+      }
+    .nav__center {
     display: none;
   }
+
+  
+  
 }

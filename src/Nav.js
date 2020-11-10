@@ -24,7 +24,7 @@ function Nav() {
 
             <div className="nav__right">
                 <SendOutlinedIcon className="nav__icons"/>
-                <Avatar src="https://lh3.googleusercontent.com/ogw/ADGmqu-iBo2YlWhOGWEkxOM3hbeG09a7LggTiSmLu3bq=s32-c-mo"/>
+                <Avatar id="nav__image" src="https://lh3.googleusercontent.com/ogw/ADGmqu-iBo2YlWhOGWEkxOM3hbeG09a7LggTiSmLu3bq=s32-c-mo"/>
             </div>
         </div>
     )
